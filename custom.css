@@ -1,0 +1,46 @@
+.hero_image {
+    background: url(4.jpg) no-repeat;
+    background-size: cover;
+    height: 98vh;
+}
+.hero_wrapper {
+    color: rgb(240, 240, 240);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    font-size: 3.5rem;
+    font-family: cursive;
+    text-align: center;
+}
+P {
+    font-size: 1.2rem;
+    font-family: cursive;
+    text-align: justify;
+}
+.post_code {
+    display: block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    padding: 0.6rem;
+    border: none;
+    outline: none;
+    text-align: left;
+}
+.button_code {
+    background-color: rgb(65, 224, 134);
+    display: block;
+    width: 35%;
+    margin-top: 0.8rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem;
+    padding: 0.6rem;
+    border: none;
+    outline: none;
+    text-align: center;
+}
