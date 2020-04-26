@@ -20,6 +20,12 @@ P {
     font-family: cursive;
     text-align: justify;
 }
+span {
+    font-size: 1.2rem;
+    font-family: cursive;
+    text-align: justify;
+    margin-left: 6rem;
+}
 .post_code {
     display: block;
     width: 70%;
@@ -43,4 +49,30 @@ P {
     border: none;
     outline: none;
     text-align: center;
+}
+h2 {
+    font-size: 1.5rem;
+    font-family: cursive;
+    text-align: left;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+p2 {
+
+}
+.responsive {
+    max-width: 100%;
+    margin-top: 2rem;
+    height: 19.3rem;
+}
+.product_image {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.product_list {
+    float: left;
+    width: 30.932%;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
