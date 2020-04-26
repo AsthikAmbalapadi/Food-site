@@ -73,3 +73,20 @@ h2 {
     margin-left: 1rem;
     margin-right: 1rem;
 }
+@media screen and (min-width: 500px) and (max-width: 1200px) {
+    .product_list {
+        width: 88%;
+        float: none;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        border-right: 1rem;
+    }
+    .hero_wrapper {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        right: 10%;
+        transform: translate(+6%, -80%);
+        text-align: justify;
+    }
+}
